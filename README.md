@@ -1,8 +1,7 @@
 # ProyectoFinalPOO
 
 Sistema de Gestión de Inventario
-Este sistema de gestión de inventario es una aplicación de escritorio con interfaz gráfica de usuario (GUI) desarrollada en Java. La GUI se diseñó con Swing y la conectividad con la base de datos se gestionó mediante la API JDBC.
-
+Este sistema de gestión de inventario es una aplicación de escritorio con interfaz gráfica de usuario (GUI) desarrollada en Java. 
 Esta aplicación puede ser utilizada por cualquier tienda, ya sea pequeña o mediana, para mantener y gestionar fácilmente el inventario de todos sus productos:
 
 Productos
